@@ -1,6 +1,6 @@
 <h1>Hi there👋</h1>
 
-<p><b>I hope you're having a wonderful day!</b></br>I'm Harshil, a seasoned MERN stack developer with a solid 2 years of hands-on experience in the realm of software development. I specialize in building robust and scalable web applications with a focus on both frontend and backend development.</p>
+<p><b>I hope you're having a wonderful day!</b></br>I'm Harshil, a passionate Software Developer with 2+ years of experience building scalable, high-performance web and mobile applications.</p>
 
 <hr/>
 <h3>Technologies I Use👨🏻‍💻</h3>
