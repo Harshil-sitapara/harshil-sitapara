@@ -1,6 +1,6 @@
 <h1>Hi there👋</h1>
 
-<p>I'm Harshil, a passionate Software Developer with 2+ years of experience building scalable, high-performance web and mobile applications.</p>
+<p>I'm Harshil, a passionate Software Developer with 3+ years of experience building scalable, high-performance web and mobile applications.</p>
 
 <hr/>
 <h3>Technologies I Use👨🏻‍💻</h3>
